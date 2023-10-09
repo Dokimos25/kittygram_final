@@ -8,7 +8,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 load_dotenv()
 SECRET_KEY = os.getenv('SECRET_KEY', '123')
 
-DEBUG = False
+DEBUG = True
 
 ALLOWED_HOSTS = ['158.160.75.108', '127.0.0.1', 'localhost', 'kittytest1.ddns.net']
 
