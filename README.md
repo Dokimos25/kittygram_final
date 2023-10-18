@@ -1,3 +1,5 @@
+Технологический стек
+• Python • Django • Django REST • Framework • PostgreSQL • Nginx • gunicorn • Docker • Docker-compose • Docker Hub • GitHubActions
 #  Как работать с репозиторием финального задания
 
 ## Что нужно сделать
@@ -24,3 +26,6 @@ dockerhub_username: ваш_логин_на_докерхабе
 - Проект Kittygram доступен по доменному имени, указанному в `tests.yml`.
 - Пуш в ветку main запускает тестирование и деплой Kittygram, а после успешного деплоя вам приходит сообщение в телеграм.
 - В корне проекта есть файл `kittygram_workflow.yml`.
+
+Автор:
+[Анна Королькова](https://github.com/Dokimos25)
